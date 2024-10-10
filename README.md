@@ -45,7 +45,7 @@ You're ready!
 3) Begin with sheet "**Q1**" and run each script (or the entire script with Module 5). Then, proceed with running it on each sheet: "**Q2**", "**Q3**", and "**Q4**".
      - Click the green "play/run" button.
      - The same VBA scripts will loop across the entire worksheet. How neat!
-4) Now, watch all the data unleash in front of your eyes!
+4) Now, watch all the data come together.
 
 Check Your Work / See Finished Workbook:
 ----
