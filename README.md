@@ -49,7 +49,7 @@ You're ready!
 
 Check Your Work / See Finished Workbook:
 ----
-Head back over to the repository to see the correct outputs for this project. Hope you had fun!
+Head back over to the repository to see the correct outputs for this project. You can also check the finished workbook with the results shown and the script already in VBA: m2_multiple_year_stock_data.xlsm (this one has no diy at the end).
 
 Notes
 ----
