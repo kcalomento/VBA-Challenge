@@ -25,9 +25,7 @@ Included below are interactive instructions if you wish to indulge in the fun!
 
   - To run this project, you will need Excel 2010 or later with Macros enabled (directions for Macros settings are below).
      - _Note: Make sure you are on the xlsm file or have converted the xlsx into xlsm._
-  - With Excel open, navigate to the ribbon and select **File** -> **Options** -> **Trust Center** -> **Trust Center Settings**
-  - Select all the options as the picture shows below:
-  ![image](https://github.com/user-attachments/assets/c3c8627a-99de-41fc-afae-64f49f76a2c7)
+  - With Excel open, navigate to the ribbon and select **File** -> **Options** -> **Trust Center** -> **Trust Center Settings** -> **Macro Settings** -> **Enable VBA Macros**
 
 You're ready!
 
